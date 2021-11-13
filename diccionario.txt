@@ -1,0 +1,8 @@
+casa = house = casa
+hola = hello
+raton = mouse
+celular = cell
+azul = blue =
+lapicero = pencil
+amarillo = yelllow
+carro = car = 
