@@ -6,3 +6,4 @@ azul = blue =
 lapicero = pencil
 amarillo = yelllow
 carro = car = 
+lapiz = pen = 
